@@ -1,14 +1,5 @@
 {
-  "blogs": [{
-    "id":1,
-    "title":"hello"
-  }],
-  "comments":[{
-    "id":1,
-    "title":"hello"
-  }],
-  "users":[{
-    "id":1,
-    "title":"hello"
-  }]
+  "blogs": [],
+  "comments":[],
+  "users":[]
 }
